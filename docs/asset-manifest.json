@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/torihazi/react_tutorial/static/css/main.8100d164.css",
+    "main.js": "/torihazi/react_tutorial/static/js/main.08e7fef0.js",
+    "static/js/453.adad6bf2.chunk.js": "/torihazi/react_tutorial/static/js/453.adad6bf2.chunk.js",
+    "index.html": "/torihazi/react_tutorial/index.html",
+    "main.8100d164.css.map": "/torihazi/react_tutorial/static/css/main.8100d164.css.map",
+    "main.08e7fef0.js.map": "/torihazi/react_tutorial/static/js/main.08e7fef0.js.map",
+    "453.adad6bf2.chunk.js.map": "/torihazi/react_tutorial/static/js/453.adad6bf2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8100d164.css",
+    "static/js/main.08e7fef0.js"
+  ]
+}
